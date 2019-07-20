@@ -37,10 +37,9 @@
       
       <guid>https://arseniykd.github.io/experience/</guid>
       <description>Arista Networks Software Engineering Intern, May 2019 - Present. Vancouver, BC
-During my time at Arista Networks, I worked in the Routing Team. I made a framework to add generic counters to event occurrences, improving information available when debugging
-Upgraded old CLI output method to work asynchronously, improving stability at scale
-WCB Alberta Business Analyst Summer Student, May 2018 - August 2018. Edmonton, AB
-During my time at WCB Alberta, I have worked on automating their manual testing scripts using the CodedUI Test Automation framework.</description>
+During my time at Arista Networks, I worked in the Routing Team in a highly agile environment.
+Some of my tasks included the following:
+ I designed and developed a framework in C++ to add generic counters to event occurrences, improving information available when debugging Adapted old CLI command output method to work asynchronously in C++, fixing a hard to reproduce bug and improving platform stability at scale.</description>
     </item>
     
     <item>
@@ -49,7 +48,7 @@ During my time at WCB Alberta, I have worked on automating their manual testing 
       <pubDate>Thu, 02 May 2019 00:33:36 -0600</pubDate>
       
       <guid>https://arseniykd.github.io/education/</guid>
-      <description>B.Sc. Computing Science Honors - University of Alberta (September 2017 - December 2020) Scholarships &amp;amp; Awards:  International Student Scholarship (2017 - Present) International Advanced Placement Scholarship (2017) International Country Scholarship (2017) University of Alberta Undergraduate Scholarship (2018) Dean&amp;rsquo;s Honor Roll (2018)  Completed Coursework  Introduction to Tangible Computing I &amp;amp; II: The Honors introduction to Computing Science done in C++ and Python. Development done on the Arduino platform to develop good intuition about necessity of efficient algorithms and proper memory management.</description>
+      <description>B.Sc. Computing Science Honors - University of Alberta (September 2017 - December 2020) Scholarships &amp;amp; Awards:  International Student Scholarship (2017 - Present) International Advanced Placement Scholarship (2017) International Country Scholarship (2017) University of Alberta Undergraduate Scholarship (2018) Dean&amp;rsquo;s Honor Roll (2018, 2019)  Completed Coursework  Introduction to Tangible Computing I &amp;amp; II: The Honors introduction to Computing Science done in C++ and Python. Development done on the Arduino platform to develop good intuition about necessity of efficient algorithms and proper memory management.</description>
     </item>
     
     <item>
