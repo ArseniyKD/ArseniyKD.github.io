@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arseniy Kouzmenkov</title>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 02 May 2019 01:55:00 -0600</pubDate>
       
       <guid>https://arseniykd.github.io/projects/</guid>
-      <description>Projects  Vitabu: This was our CMPUT 301 project. Vitabu is an Android app that provides users with the possibility to lend and borrow books from other users. This project was done in a group of 6 people. The project was built using Firebase. You can view this project here. Arduino Air Hockey: This was our CMPUT 274 final group project. We made an air hockey game in C++ for the Arduino platform with a realistic physics engine.</description>
+      <description>Projects  Vitabu: This was our CMPUT 301 project. Vitabu is an Android app that provides users with the possibility to lend and borrow books from other users. This project was done in a group of 6 people. The project was built using Firebase. You can view this project [here.] (https://github.com/cmput301w19t20/Vitabu) Arduino Air Hockey: This was our CMPUT 274 final group project. We made an air hockey game in C++ for the Arduino platform with a realistic physics engine.</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Some of my tasks included the following:
       <pubDate>Thu, 02 May 2019 00:33:36 -0600</pubDate>
       
       <guid>https://arseniykd.github.io/education/</guid>
-      <description>B.Sc. Computing Science Honors - University of Alberta (September 2017 - December 2020) Scholarships &amp;amp; Awards:  International Student Scholarship (2017 - Present) International Advanced Placement Scholarship (2017) International Country Scholarship (2017) University of Alberta Undergraduate Scholarship (2018) Dean&amp;rsquo;s Honor Roll (2018, 2019)  Completed Coursework  Introduction to Tangible Computing I &amp;amp; II: The Honors introduction to Computing Science done in C++ and Python. Development done on the Arduino platform to develop good intuition about necessity of efficient algorithms and proper memory management.</description>
+      <description>B.Sc. Computing Science Honors - University of Alberta (September 2017 - December 2020) Scholarships &amp;amp; Awards:  International Student Scholarship (2017 - Present) International Advanced Placement Scholarship (2017) International Country Scholarship (2017) University of Alberta Undergraduate Scholarship (2018) Dean&#39;s Honor Roll (2018, 2019)  Completed Coursework  Introduction to Tangible Computing I &amp;amp; II: The Honors introduction to Computing Science done in C++ and Python. Development done on the Arduino platform to develop good intuition about necessity of efficient algorithms and proper memory management.</description>
     </item>
     
     <item>
@@ -59,7 +59,7 @@ Some of my tasks included the following:
       <guid>https://arseniykd.github.io/about/</guid>
       <description>Hello! You have gotten to this page for a reason, and that reason is to learn more about me, so here goes:
 I am Arseniy Kouzmenkov, a third year Computing Science Honors student at the University of Alberta.
-For developing, I prefer to use C++ and C for larger projects, Java for Android development and Python for small scripts. I really enjoy system development and working with low level networking.</description>
+For developing, I prefer to use C++ and C for larger projects, Java for Android development and Python for small scripts. I really enjoy system development and working with low level networking. The Operating Systems and Computer Organization and Architecture classes have been some of my favourite courses so far!</description>
     </item>
     
   </channel>
