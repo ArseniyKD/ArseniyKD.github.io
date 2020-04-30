@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Arseniy Kouzmenkov</title>
+    <link>arseniykd.github.io/project/</link>
+      <atom:link href="arseniykd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Arseniy Kouzmenkov</copyright>
+    <image>
+      <url>/arseniykd.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>arseniykd.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Arduino Air Hockey</title>
+      <link>arseniykd.github.io/project/arduino_air_hockey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/arduino_air_hockey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hollow Heap</title>
+      <link>arseniykd.github.io/project/hh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/hh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Algorithm Exploration</title>
+      <link>arseniykd.github.io/project/ml_exploration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/ml_exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retro Bullet Hell</title>
+      <link>arseniykd.github.io/project/rbh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/rbh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Name of The Game</title>
+      <link>arseniykd.github.io/project/the_name_of_the_game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/the_name_of_the_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitabu</title>
+      <link>arseniykd.github.io/project/vitabu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>arseniykd.github.io/project/vitabu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
